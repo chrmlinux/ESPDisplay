@@ -1,0 +1,9 @@
+ESPDisplay 	KEYWORD1	ESPDisplay
+espd 				KEYWORD1 	ESPDisplay
+
+begin						KEYWORD2
+end							KEYWORD2
+update					KEYWORD2
+height					KEYWORD2
+width						KEYWORD2
+getfps					KEYWORD2
