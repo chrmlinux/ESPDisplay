@@ -3,7 +3,7 @@
 // program name   : ESPDisplay.hpp
 // date/author    : 2022/04/08  @chrmlinux03
 // update/author  : 2022/04/09  @chrmlinux03
-// version        : 0.0.1
+// version        : 0.0.2
 // License        : MIT
 // --------------------------------------------------
 //
@@ -31,7 +31,7 @@ ESP_8_BIT_composite video(true);
 
 #include "LovyanGFX.hpp"
 static LGFX_Sprite lcd;
-enum {ESPD_DAC1 = 1, ESPD_DAC2};
+enum {ESPD_DAC1 = 0, ESPD_DAC2};
 
 class ESPDisp {
 
